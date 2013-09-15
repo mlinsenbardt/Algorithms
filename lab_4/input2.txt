@@ -1,0 +1,27 @@
+binaries chowders citrons democracy emcees gird gumption killdeer knotty mints 
+binaries democracy 48
+binaries gumption 18
+binaries killdeer 6
+binaries mints 16
+chowders killdeer 12
+chowders knotty 1
+chowders mints 18
+citrons democracy 19
+citrons gird 13
+citrons killdeer 47
+citrons mints 33
+democracy gird 33
+emcees emcees 22
+emcees gird 17
+emcees gumption 42
+emcees killdeer 7
+emcees knotty 28
+emcees mints 35
+gird knotty 47
+gird mints 40
+gumption knotty 47
+killdeer knotty 23
+killdeer mints 25
+knotty knotty 36
+knotty mints 11
+

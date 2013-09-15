@@ -1,0 +1,12 @@
+The quick brown fox jumps very high. Why does the quick brown fox jump so 
+high?
+
+
+QuickSort by Values
+QuickSort by Keys
+MergeSort by Values
+MergeSort by Keys
+HeapSort by Values
+HeapSort by Keys
+InsertionSort by Values
+InsertionSort by Keys
